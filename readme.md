@@ -6,7 +6,7 @@
 # iOS Chart library
 
 1. Charts
-   - https://github.com/danielgindi/Charts
+   - 관련 사이트 : https://github.com/danielgindi/Charts
 
 # 추가 참고 자료
 
